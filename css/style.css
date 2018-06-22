@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i');
+
+h1,h2,h3,h4,h5,h6{
+	margin-top: 2px;
+	margin-bottom: 5px;
+	font-family: 'Nunito', sans-serif;
+}
+.navbar-color{
+	background-color: #990A00;
+	color: #fff;
+	font-family: 'Nunito', sans-serif;
+}
+.page-content{
+	font-family: 'Montserrat', sans-serif;
+	background-color: #990A00;
+	color: #fff;
+	font-family: 'Nunito', sans-serif;
+	
+}
+
+i{
+	color: #fff;
+}
+.center-block{
+	margin: 0 auto;
+	display:block;
+}
+
+.img-responsive{
+	max-width: 100%;
+}
+.ios .card-footer{
+	background-color: transparent;
+	border: none;
+	color: #fff;
+}
+.card-footer{
+	font-size: 10px;
+	color: #fff;
+	text-align: center;
+}
+.ios .card{
+	background-color: transparent;
+	color: #fff;
+	box-shadow: none;
+	text-align: center;
+		
+}
+.ios .card-header{
+	color: #fff;
+	text-transform: capitalize;
+	text-align: center;
+	font-size: 15px;
+}
+.ios .block-title {
+    color: #fff;
+    margin: 35px 15px 10px;
+    line-height: 17px;
+}
+.ios .block{
+	color: #fff;
+	text-transform: capitalize;
+}
+.button-detail{
+	background-color: #fff;
+	color: #990A00;
+	border-radius: 100%;
+}
